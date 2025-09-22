@@ -22,16 +22,16 @@ title: 廖敬轩的自我介绍
 email: liaojingxuan1@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   自动化类2503廖敬轩
+  爱好很多，喜欢尝试新事物，其中擅长演播和唱歌
+  热爱编程与技术，有python基础
+  正在学习c++,linux,css,html,javascript等和其他面前题中涉及到的知识点
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+url: "https://liaojingxuan1.github.io/my-introduction/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Reqin
+github_username:  liaojingxuan1
+plugins: []
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-
+#theme: minima
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
