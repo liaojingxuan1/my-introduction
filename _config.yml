@@ -23,8 +23,12 @@ email: liaojingxuan1@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   自动化类2503廖敬轩
   爱好很多，喜欢尝试新事物，其中擅长演播和唱歌
-  热爱编程与技术，有python基础
-  正在学习c++,linux,css,html,javascript等和其他面前题中涉及到的知识点
+  热爱编程与技术，有python基础,能编写简单程序，如排序、链表、解密等，
+  但只简单深入，了解一些pandas数据处理，web开发框架等知识
+  同时正在学习且已基本了解c++,css,html,javascript等语言，有python基础因此学起来相对轻松，正在熟练掌握ing...
+  也在学习Linux等其他面前题中涉及到的知识点
+  运用GitHubPage制作简单网页时还了解到了YAML，简单学习后发现计算机真是个无底洞！
+  更感兴趣了。。。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://liaojingxuan1.github.io/my-introduction/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Reqin
