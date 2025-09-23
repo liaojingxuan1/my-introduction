@@ -9,6 +9,7 @@ body {
     line-height: 2;
     color: #000000ff;
     max-width: 800px;
+    margin: 0 auto
     }
 .header {
     text-align: center;
@@ -25,6 +26,7 @@ body {
 .description {
     font-size: 1.2rem;
     color: #666;
+    text-aign: center
 }
 .contact-info {
     background-color: #f9f9ffff;
