@@ -53,7 +53,7 @@ body {
 
 <div class="header">
     <div class="name">廖敬轩
-        <a href="/demo/">点击查看我的Markdown</a>
+        <a href="/my-introduction/demo/">点击查看我的Markdown</a>
     </div>
     <div class="description">自动化类2503</div>
 </div>
