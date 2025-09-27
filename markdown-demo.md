@@ -1,7 +1,7 @@
 ---
 layout: null
 title: "Markdown demo" 
-permalink: /demo/ 
+permalink: /my-introduction/demo/ 
 ---
 # Markdown 进阶语法与面前题学习笔记
 
