@@ -34,6 +34,21 @@ url: "https://liaojingxuan1.github.io/my-introduction/" # the base hostname & pr
 twitter_username: Reqin
 github_username:  liaojingxuan1
 plugins: []
+markdown: kramdown
+kramdown:
+  input: GFM # 启用 GitHub Flavored Markdown 模式，兼容度更好
+  syntax_highlighter: rouge # 使用 rouge 进行语法高亮
+  hard_wrap: false # 保持原生 Markdown 换行行为
+  footnote_nr: 1 # 脚注起始编号
+  auto_ids: true # 为标题自动生成 ID
+  toc_levels: 1..6 # 目录包含的标题级别
+  smart_quotes: lsquo,rsquo,ldquo,rdquo # 智能引号转换
+  extensions: # 明确启用一些扩展
+    - autolink # 自动将 URL 转换为链接
+    - footnotes # 启用脚注功能
+    - smart # 启用智能标点转换
+  math_engine: mathjax
+  syntax_highlighter: rouge
 # Build settings
 #theme: minima
 # Exclude from processing.
